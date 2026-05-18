@@ -1,0 +1,28 @@
+.card{
+    background-color: var(--color-bg-tertiary);
+    color: var(--color-font-primary);
+    padding: 20px;
+    min-height: 60px;
+}
+
+.site-name{
+    font-size: 20px;
+}
+
+.card-content-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.nav-bar{
+    display: flex;
+}
+
+.sub-menu-item{
+    margin-right: 20px;
+}
+
+.sub-menu-active{
+    font-weight: 700;
+}
