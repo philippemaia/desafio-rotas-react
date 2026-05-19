@@ -7,7 +7,7 @@ export default function NotFound() {
               <section>
                   <div className="container">
                       <div className="mt30 mb30">
-                          <Body title="Não Encontrado!" />
+                          <Body title="Não encontrado!" />
                       </div>
                   </div>
               </section>
